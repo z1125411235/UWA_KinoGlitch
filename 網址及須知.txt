@@ -1,0 +1,7 @@
+版本:Unity 5.1以上
+
+UWA網址__https://lab.uwa4d.com/lab/5b5d1c86d7f10a201feaa37f
+
+本人Github網址__https://github.com/z1125411235/UWA_KinoGlitch
+
+官方Github網址__https://github.com/keijiro/KinoGlitch
